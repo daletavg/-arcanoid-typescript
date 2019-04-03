@@ -1,0 +1,7 @@
+C:\Users\Dubrov_v\Desktop\Type_Script_Arcanoid\Type_Script_Arcanoid\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Dubrov_v\Desktop\Type_Script_Arcanoid\Type_Script_Arcanoid\bin\TypeScriptHTMLApp1.dll
+C:\Users\Dubrov_v\Desktop\Type_Script_Arcanoid\Type_Script_Arcanoid\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Dubrov_v\Desktop\Type_Script_Arcanoid\Type_Script_Arcanoid\obj\Debug\Type_Script_Arcanoid.csprojResolveAssemblyReference.cache
+C:\Users\Dubrov_v\Desktop\Type_Script_Arcanoid\Type_Script_Arcanoid\obj\Debug\Type_Script_Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\Dubrov_v\Desktop\Type_Script_Arcanoid\Type_Script_Arcanoid\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Dubrov_v\Desktop\Type_Script_Arcanoid\Type_Script_Arcanoid\obj\Debug\TypeScriptHTMLApp1.pdb
