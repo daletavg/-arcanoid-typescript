@@ -145,7 +145,7 @@ class Ball extends Obj {
                     }
                 }
             });
-            clearInterval(this.timer);
+            clearInterval(ball.timer);
         }
         ball.chekcollision(ball.x, ball.y);
         //if ((this.x >= player._x - 20 && this.x <= player._x + player._width) && (this.y >= player._y - 20 && this.y <= player._y + player._height)) {

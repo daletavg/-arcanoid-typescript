@@ -190,7 +190,7 @@ class Ball extends Obj {
                     }
                 }
             });
-            clearInterval(this.timer);
+            clearInterval(ball.timer);
         }
         ball.chekcollision(ball.x, ball.y);
         
