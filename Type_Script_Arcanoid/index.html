@@ -5,11 +5,19 @@
     <meta charset="utf-8" />
     <title>TypeScript HTML App</title>
     <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
     <script src="app.js"></script>
 </head>
 <body>
-    <h1>TypeScript HTML App</h1>
-
-    <div id="content"></div>
+    <div id="dialog" style="display:none" title=":(">
+        <p>Вы выиграли!!!!</p>
+    </div>
+    <div id="dialog_loos" style="display:none" title=":(">
+        <p>Вы проиграли!!!!</p>
+    </div>
+    <div id="div1" style="width:400px;height:450px;background-color:#50ff6b;border:red 2px solid;position:absolute;top:0px;left:0px"></div>
+    <span id="ball" style='position:absolute;top:0px;left:0px'>😊</span>
+    <div id="player" style="width: 10px;height: 10px;background: black"></div>
+    <div style="position: absolute;left:410px" id="score">Score:<span id="scor">0</span></div>
 </body>
 </html>
